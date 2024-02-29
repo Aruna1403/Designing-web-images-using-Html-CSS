@@ -1,0 +1,48 @@
+#fd{
+	width:450px;
+	height:465px;
+	border-radius:20%;
+	background-image:radial-gradient(circle at 33% 100%, #fed373 4%, #f15245 30%, #d92e7f 62%, 		#9b36b7 85%, #515ecf);
+	padding:80px;
+}
+#sd{
+	width:350px;
+	height:350px;
+	border-radius:20%;
+	background-color:white;
+	padding:50px;
+}
+#td{
+	width:250px;
+	height:250px;
+	border-radius:20%;
+	background-image:radial-gradient(circle at 33% 100%, #fed373 4%, #f15245 30%, #d92e7f 62%, 		#9b36b7 85%, #515ecf);
+	padding:50px;
+	position:relative;
+}
+#fod{
+	width:45px;
+	height:45px;
+	border-radius:100%;
+	background-color:white;
+	float:right;
+}
+#fid{
+	width:190px;
+	height:190px;
+	border-radius:100%;
+	background-color:white;
+	padding-top:35px;
+	padding-left:20px;
+	padding-right:20px;
+	position:absolute;
+	bottom:50px;
+	left:50px;
+	
+}
+#fid1{
+	width:150px;
+	height:150px;
+	border-radius:100%;
+	background-image:radial-gradient(circle at 33% 100%, #fed373 4%, #f15245 30%, #d92e7f 62%, 	#9b36b7 85%, #515ecf);
+}
